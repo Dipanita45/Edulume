@@ -1,18 +1,17 @@
 ## Security Policy
-## Supported Versions
-The following versions of Edulume are currently supported with security updates:
 
 ## Supported Versions
 
 The following versions of Edulume are currently supported with security updates:
-## Version	Supported
-1.x.x	✅ Yes
-0.x.x	❌ No
+| Version | Supported |
+|---------|-----------|
+| 1.x.x | Yes |
+| 0.x.x | No |
 
 ## Reporting a Vulnerability
 If you discover a security vulnerability in Edulume, we encourage you to report it as soon as possible. We will investigate all legitimate reports and do our best to quickly fix the issue.
 
-# How to Report
+## How to Report
 Please report vulnerabilities by emailing us at tarinagarwal@gmail.com. Include as much detail as possible to help us identify and fix the issue swiftly.
 Do not share the vulnerability publicly until it has been addressed and a patch is available.
 
@@ -49,4 +48,3 @@ Regularly update your dependencies to the latest versions.
 
 # Acknowledgements
 We appreciate contributions from the community and researchers who help us improve the security of Edulume. Thank you for keeping the platform secure for everyone!
-
